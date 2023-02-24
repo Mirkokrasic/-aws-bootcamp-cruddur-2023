@@ -10,16 +10,18 @@
 
 #I puted Env Vars
 
-I set up these credentials for the current bash terminal and persisted it afterwards.
-
+I set up these credentials for the current bash terminal and configure gitpod to preload it everytime I run it.
+```
 export AWS_ACCESS_KEY_ID=""
 export AWS_SECRET_ACCESS_KEY=""
 export AWS_DEFAULT_REGION=us-east-1
+```
 
+```
 gp env AWS_ACCESS_KEY_ID=""
 gp env AWS_SECRET_ACCESS_KEY=""
 gp env AWS_DEFAULT_REGION=us-east-1
-
+```
 
 #Created MFA authentication and access key
 
