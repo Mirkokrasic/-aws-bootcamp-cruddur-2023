@@ -20,6 +20,11 @@
 
 ![image](https://user-images.githubusercontent.com/32469871/221150030-80531802-bff7-4fed-8266-b76a21716de2.png)
 
+#Created an SNS notification service to be notified if my billing alarm goes off
+
+![image](https://user-images.githubusercontent.com/32469871/221164216-981c0bd2-18f1-43ef-ab9b-eebee5cf951a.png)
+
+
 #Created logical architecture and I added some security features using LucidChart in order to user MFA in our Crudder app
 
 ![image](https://user-images.githubusercontent.com/32469871/221162464-f1803c57-cb40-4804-bb6a-b1f61c1f3d28.png)
