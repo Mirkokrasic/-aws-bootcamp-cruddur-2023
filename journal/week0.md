@@ -20,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/32469871/221150030-80531802-bff7-4fed-8266-b76a21716de2.png)
 
-#Created an SNS notification service to be notified if my billing alarm goes off
+#Created an SNS notification service to be notified if my billing alarm is triggered
 
 ![image](https://user-images.githubusercontent.com/32469871/221164216-981c0bd2-18f1-43ef-ab9b-eebee5cf951a.png)
 
