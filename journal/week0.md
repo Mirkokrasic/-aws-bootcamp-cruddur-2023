@@ -8,6 +8,19 @@
 
 ![image](https://user-images.githubusercontent.com/32469871/221147910-d8dd1e88-31df-4f21-9108-bc703c12e592.png)
 
+#I puted Env Vars
+
+I set up these credentials for the current bash terminal and persisted it afterwards.
+
+export AWS_ACCESS_KEY_ID=""
+export AWS_SECRET_ACCESS_KEY=""
+export AWS_DEFAULT_REGION=us-east-1
+
+gp env AWS_ACCESS_KEY_ID=""
+gp env AWS_SECRET_ACCESS_KEY=""
+gp env AWS_DEFAULT_REGION=us-east-1
+
+
 #Created MFA authentication and access key
 
 ![image](https://user-images.githubusercontent.com/32469871/221148644-a864a50d-df95-4632-829a-d6d441bf4fcf.png)
