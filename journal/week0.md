@@ -1,5 +1,20 @@
 # Week 0 — Billing and Architecture
 
+#I've Installed gitpod and install aws client.
+
+```sh
+tasks:
+  - name: aws-cli
+    env:
+      AWS_CLI_AUTO_PROMPT: on-partial
+    init: |
+      cd /workspace
+      curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+      unzip awscliv2.zip
+      sudo ./aws/install
+      cd $THEIA_WORKSPACE_ROOT
+```
+
 #Install of AWS CLI with preload configuration in Gitpod
 
 ![image](https://user-images.githubusercontent.com/32469871/221148330-0f880d73-4df1-4ff1-824a-eb4b0aa949fc.png)
