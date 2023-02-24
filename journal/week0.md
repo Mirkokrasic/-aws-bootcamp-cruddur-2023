@@ -2,7 +2,7 @@
 
 #Install of AWS CLI
 
-![image](https://user-images.githubusercontent.com/32469871/221146715-82e088d6-4e78-46c3-a0cb-b6b13c3ebf65.png)
+![image](https://user-images.githubusercontent.com/32469871/221148330-0f880d73-4df1-4ff1-824a-eb4b0aa949fc.png)
 
 #Create new user and put it in admin group
 
