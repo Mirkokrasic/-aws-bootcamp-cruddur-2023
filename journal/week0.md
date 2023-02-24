@@ -6,5 +6,5 @@
 
 #Create new user and put it in admin group
 
-![image](https://user-images.githubusercontent.com/32469871/221147719-eb7d28cc-0861-4cbb-8d1d-584f324378ca.png)
+![image](https://user-images.githubusercontent.com/32469871/221147910-d8dd1e88-31df-4f21-9108-bc703c12e592.png)
 
