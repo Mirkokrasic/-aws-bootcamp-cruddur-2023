@@ -1,6 +1,6 @@
 # Week 0 — Billing and Architecture
 
-#Install of AWS CLI
+#Install of AWS CLI with preload configuration in Gitpod
 
 ![image](https://user-images.githubusercontent.com/32469871/221148330-0f880d73-4df1-4ff1-824a-eb4b0aa949fc.png)
 
